@@ -1,0 +1,22 @@
+.row_posters{
+    display: flex;
+    padding-top: 25px;
+  
+    
+}
+.row_poster{
+    
+    object-fit: contain;
+    max-height: 200px;
+}
+.container{
+    background-color: rgb(15, 15, 15);
+    
+    
+    
+}
+.title{
+    text-align: center;
+    color: rgb(225, 236, 233);
+
+}
